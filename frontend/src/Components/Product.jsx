@@ -1,11 +1,6 @@
 import React from 'react'
-import pic2 from '../assets/slide-2.png';
-import user from '../assets/users.png';
-import cube from '../assets/cubes.png';
-import wallet from '../assets/wallet.png';
-import goi from '../assets/pic2.png';
 
-const About = () => {
+const Product = () => {
   return (
     <div>
         <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-8'>
@@ -82,4 +77,4 @@ const About = () => {
   )
 }
 
-export default About
+export default Product
