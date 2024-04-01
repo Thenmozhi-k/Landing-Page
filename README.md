@@ -6,8 +6,6 @@ This is a React-based agency website project that showcases various services, ab
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 
 ## Features ✨
@@ -24,7 +22,7 @@ This is a React-based agency website project that showcases various services, ab
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-agency-website.git
+git clone https://github.com/Thenmozhi-k/Agency-website.git
 
 2. Navigate to the project directory:
 ```bash
@@ -41,4 +39,6 @@ npm install
 - [react-icons](https://react-icons.github.io/react-icons/) - Icons for React projects.
 - [react-flowbite](https://flowbite.com/react/) - A free and open-source React UI components library.
 - [react-bootstrap](https://react-bootstrap.github.io/) - Bootstrap components built with React.
+
+For more information, check out these awesome tools and libraries! Stay trendy while building your next React project.
 
