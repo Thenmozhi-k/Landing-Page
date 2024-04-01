@@ -11,7 +11,7 @@ const About = () => {
         <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-8'>
             <div className='md:w-11/12 mx-auto flex flex-col md:flex-row justify-between items-center gap-20'>
                 <div>
-                    <img className=" h-96"src={pic2} alt="" />
+                    <img className=" h-96 "src={pic2} alt="" />
                 </div>
 
                 <div className='md:w-3/5 mx-auto'>
@@ -37,10 +37,10 @@ const About = () => {
                     
                 </div>
        {/*-------------------------------- stats----------------- */}
-            <div className='md:w-1/2 mx-auto flex sm:flex-row flex-col sm:items-center justify-around gap-12'>
+            <div className='md:w-1/2 mx-auto  flex sm:flex-row flex-col sm:items-center justify-around gap-12'>
                 <div className='space-y-8'>
                     <div className='flex items-center gap-4'>
-                        <img  className="w-20 h-20"src={user} alt="" />
+                        <img  className="w-20 h-20 "src={user} alt="" />
                         <div>
                             <h4 className='text-2xl text text-neutralDGray font-semibold'>2,245,341</h4>
                             <p>Members</p>

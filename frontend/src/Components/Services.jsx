@@ -24,7 +24,7 @@ const Services = () => {
         <p className='text-neutralDGray'>We have been working with some features 100+ clients</p>
       </div>
 
-      <div className='flex my-12 flex-wrap justify-between items-center gap-8'>
+      <div className='flex my-12 flex-wrap justify-between items-center gap-8 '>
         <img className='w-40 h-20' src={ola} alt="Ola" />
         <img className='w-40 h-20' src={makemytrip} alt="MakeMyTrip" />
         <img className='w-40 h-20' src={snapdeal} alt="Snapdeal" />
