@@ -5,7 +5,7 @@ import slide from '../assets/slide-1.png';
 
 const Home = () => {
   return (
-    <div className='bg-gray-100 min-h-screen'>
+    <div className='bg-gray-100 min-h-screen' id='home'>
       <div className='container mx-auto py-12'>
         <Carousel className='w-full'>
           <Carousel.Item>
