@@ -40,5 +40,7 @@ npm install
 - [react-flowbite](https://flowbite.com/react/) - A free and open-source React UI components library.
 - [react-bootstrap](https://react-bootstrap.github.io/) - Bootstrap components built with React.
 
-For more information, check out these awesome tools and libraries! Stay trendy while building your next React project.
+Click on the links above to visit their official websites and explore more about these amazing tools and libraries!
+
+
 
